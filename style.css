@@ -11,6 +11,8 @@ body{
     font-family: 'Uchen', serif;
     font-size:40px;
     color: deepskyblue;
+    line-height: 20px;
+   
     
 }
 .blu{
@@ -36,8 +38,10 @@ section{
     background-image: linear-gradient(skyblue, blue);
     padding: 10px 5px;
     border-radius: 10px;
+    margin-left: 50px;
 }
 p{
+    line-height: 20px;
     padding: 5%;
 }
 
@@ -57,4 +61,30 @@ p{
 }
 .helg{
     width: 50%;
+}
+#kk{
+    color: floralwhite;
+    font-family: 'Fuggles', cursive;
+    font-size: 50px;
+    line-height: 50px;
+}
+.fac{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(5, 59, 238), rgb(5, 193, 250));
+    padding: 10px 5px;
+    border-radius: 5px;
+   margin-left: 10px;
+   font-size: 30px;
+   font-family: 'Fuggles', cursive;
+    font-family: 'Qahiri', sans-serif;
+}
+.ins{
+    text-decoration: none;
+    background-image: linear-gradient(red, rgb(179, 255, 0));
+    padding: 10px 5px;
+    border-radius: 5px;
+   margin-left: 200px;
+   font-size: 30px;
+   font-family: 'Fuggles', cursive;
+    font-family: 'Qahiri', sans-serif;
 }
